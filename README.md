@@ -1,16 +1,31 @@
-# kolokonthoprokashoni
 
-A new Flutter project.
+# Kolokontho WebView Mobile Application
 
-## Getting Started
+This is a Flutter project that displays the website of Kolokontho Prokashoni as a Mobile Application.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+
+```
+  webview_flutter: ^2.0.9
+  cupertino_icons: ^1.0.2
+```
+
+
+## Features
+
+* Displays the website of Kolokontho Prokashoni.
+* Uses a splash screen while the website is loading.
+
+
+## Authors
+
+- [Saon00](https://www.github.com/Saon00)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
