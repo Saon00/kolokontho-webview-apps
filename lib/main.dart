@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kolokonthoprokashoni/WebScreen.dart';
+import 'package:kolokonthoprokashoni/web_screen.dart';
 
 void main() {
   runApp(const MyApp());
